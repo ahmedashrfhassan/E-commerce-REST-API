@@ -1,4 +1,4 @@
-# JAX-RS REST API E-Commerce 
+# JAX-RS REST E-Commerce  API 
 ### JAX-RS REST API for an E-Commerce
 
 ## 📃 Documentation
