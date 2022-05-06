@@ -2,7 +2,7 @@
 ### JAX-RS REST API for an E-Commerce
 
 ## 📃 Documentation
-📧[Postman RESTful API Docs](https://documenter.getpostman.com/view/20656726/UyxdK9KH)
+📧[Postman Docs](https://documenter.getpostman.com/view/20656726/UyxdK9KH)
 
 ## 📦 Features
 * HATEOAS
